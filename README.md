@@ -79,9 +79,8 @@
 
 ## ⏱ *Coding Stats (WakaTime)*
 
-<figure><embed src="https://wakatime.com/share/@himanshuverma1127/960088a2-93b7-41b9-9425-b3434db6a0fc.svg"></embed></figure>
----
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@himanshuverma1127/b7d0f3cc-7343-47de-a347-dcea07841e68.png" /></a>
+    
 ## 🤝 *Let's Connect!*
 
 <div align="center">
