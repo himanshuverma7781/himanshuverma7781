@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://seeklogo.com/vector-logo/304978/java" alt="Java"/>](https://images.seeklogo.com/logo-png/30/1/java-logo-png_seeklogo-304978.png)
 </p>
 
 ### *Frontend Technologies*
