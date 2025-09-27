@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIChoubeyX&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuverma7781&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -127,7 +127,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AIChoubeyX&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=himanshuverma7781&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Made%20with-❤-red?style=flat-square" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=flat-square" alt="Powered by Coffee" />
 </div>
