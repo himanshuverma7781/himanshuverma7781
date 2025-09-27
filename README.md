@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer&animation=twinkling" />
   
-  ### 💭 *"Code is poetry written in logic"*
+  <h3>💭 <i>"Code is poetry written in logic"</i></h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+coding!+🚀;Keep+Building+%26+Keep+Learning!" />
 </div>
