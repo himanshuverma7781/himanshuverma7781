@@ -79,15 +79,7 @@
 
 ## ⏱ *Coding Stats (WakaTime)*
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@himanshuverma1127/f4359c1e-0c1f-4038-88a9-6d87c0b90c60.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-
+<figure><embed src="https://wakatime.com/share/@himanshuverma1127/960088a2-93b7-41b9-9425-b3434db6a0fc.svg"></embed></figure>
 ---
 
 ## 🤝 *Let's Connect!*
