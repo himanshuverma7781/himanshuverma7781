@@ -79,8 +79,7 @@
 
 ## ⏱ *Coding Stats (WakaTime)*
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@himanshuverma1127/b7d0f3cc-7343-47de-a347-dcea07841e68.png" /></a>
-    
+<a href="https://wakatime.com/@9af75cbb-8af6-415b-9521-cc1d05b5eefe"><img src="https://wakatime.com/badge/user/9af75cbb-8af6-415b-9521-cc1d05b5eefe.svg" alt="Total time coded since Jul 30 2024" /></a>    
 ## 🤝 *Let's Connect!*
 
 <div align="center">
